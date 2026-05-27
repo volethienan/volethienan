@@ -1,15 +1,10 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</p> 
-<h1>Hi👋</h1>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16a34a,65a30d,059669&height=200&section=header&text=V%C3%B5%20L%C3%AA%20Thi%C3%AAn%20%C3%82n&fontSize=80&fontAlignY=35&animation=fadeIn" /> 
 </div>
-<h2 align="center">A Computer Science student currently learning about Data Engineering</h2>
 
-## 🌐 Let's Connect
+<h2 align="center">Computer Science Student | Aspiring Data Engineer</h2>
 
-<p align="center">
+<div align="center">
   <a href="mailto:volethienan5214@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -19,7 +14,9 @@
   <a href="https://fb.com/AnThiwn05" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-</p>
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+data+pipelines;Working+with+large-scale+data;Learning+modern+data+stack">
@@ -29,20 +26,17 @@
 
 ## About
 
-Computer Science student with a focus on Data Engineering.  
-Interested in building reliable data pipelines, working with large-scale data processing, and understanding how data systems operate in production environments.  
-Currently exploring distributed processing frameworks and cloud-based data platforms.
+I am a Computer Science student with a strong focus on Data Engineering. My primary interest lies in building reliable data pipelines, handling large-scale data processing, and understanding the architecture of data systems in production environments. I am actively exploring distributed processing frameworks and modern cloud-based data platforms to expand my technical skill set.
 
 ---
 
 ## Technical Scope
 
-Data pipeline development across batch and streaming workflows  
-Distributed data processing using Spark and Kafka  
-Workflow orchestration with Airflow  
-Data modeling and data warehouse fundamentals  
-ETL and ELT system design  
-Working with cloud storage and modern data platforms
+* **Data Pipeline Development:** Designing and implementing batch and streaming workflows.
+* **Distributed Processing:** Processing large datasets utilizing Apache Spark and Kafka.
+* **Workflow Orchestration:** Managing and scheduling tasks with Apache Airflow.
+* **Data Architecture:** Applying data modeling concepts, ETL/ELT system design, and data warehouse fundamentals.
+* **Cloud Infrastructure:** Working with cloud storage solutions and modern data platforms.
 
 ---
 
@@ -82,16 +76,16 @@ Working with cloud storage and modern data platforms
 ## Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Volethienan&theme=radical" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=volethienan&theme=radical" width="80%" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Volethienan&theme=radical" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Voletheinan&theme=radical" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=volethienan&theme=radical" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=volethienan&theme=radical" width="40%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Voletheinan&theme=radical&border_radius=10" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volethienan&theme=radical&border_radius=10" width="80%" />
 </div>
 
 ---
