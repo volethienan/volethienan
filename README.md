@@ -4,7 +4,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16a34a,65a30d,059669&height=200&section=header&text=V%C3%B5%20L%C3%AA%20Thi%C3%AAn%20%C3%82n&fontSize=80&fontAlignY=35&animation=fadeIn" /> 
 </div>
-<h1 align="center">Hi 👋, I'm Vo Le Thien An</h1>
 <h3 align="center">A Computer Science student currently learning about Data Engineering</h3>
 
 ## 🌐 Let's Connect
