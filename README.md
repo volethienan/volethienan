@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</p>
+</p> 
+<h1 align="center">Hi 👋,</h1>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16a34a,65a30d,059669&height=200&section=header&text=V%C3%B5%20L%C3%AA%20Thi%C3%AAn%20%C3%82n&fontSize=80&fontAlignY=35&animation=fadeIn" /> 
 </div>
-<h3 align="center">A Computer Science student currently learning about Data Engineering</h3>
+<h2 align="center">A Computer Science student currently learning about Data Engineering</h2>
 
 ## 🌐 Let's Connect
 
@@ -81,9 +82,9 @@ Working with cloud storage and modern data platforms
 ## Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Voletheinan&theme=radical" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Volethienan&theme=radical" width="80%" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Voletheinan&theme=radical" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Volethienan&theme=radical" width="40%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Voletheinan&theme=radical" width="40%" />
 </div>
 
