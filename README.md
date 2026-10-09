@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16a34a,65a30d,059669&height=200&section=header&text=V%C3%B5%20L%C3%AA%20Thi%C3%AAn%20%C3%82n&fontSize=80&fontAlignY=35&animation=fadeIn" /> 
+![Made in Vietnam](https://img.shields.io/badge/made%20in-%E2%AD%90%20Vietnam-red)
 </div>
 
 <h2 align="center">Computer Science Student | Aspiring Data Engineer</h2>
