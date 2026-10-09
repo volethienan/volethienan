@@ -22,12 +22,12 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+data+pipelines;Working+with+large-scale+data;Learning+modern+data+stack" alt="Typing SVG">
-</p>
-##  About Me
+</p>.
+## About Me
 
 I am a Computer Science student with a strong focus on Data Engineering. My primary interest lies in building reliable data pipelines, handling large-scale data processing, and understanding the architecture of data systems in production environments. I am actively exploring distributed processing frameworks and modern cloud-based data platforms to expand my technical skill set.
 
-## 🎯 Technical Scope
+## Technical Scope
 - **Data Pipeline Development:** Designing and implementing batch and streaming workflows.
 - **Distributed Processing:** Processing large datasets utilizing Apache Spark and Kafka.
 - **Workflow Orchestration:** Managing and scheduling tasks with Apache Airflow.
